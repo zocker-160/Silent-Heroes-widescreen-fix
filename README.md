@@ -1,4 +1,4 @@
-# Silent Heroes widescreen-fix
+# Silent Heroes widescreen fix
 Widescreen and Resolution fix for Silent Heroes: Elite Troops of World War II.
 
 **It also fixes `Texture or surface size is too big (esurface.cpp, 129)` error!**
