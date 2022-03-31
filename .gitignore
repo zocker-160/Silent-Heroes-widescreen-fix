@@ -8,4 +8,7 @@ premake*
 *.lib
 *.yml
 
+.vs/
 build/
+Release/
+source/Silent*
