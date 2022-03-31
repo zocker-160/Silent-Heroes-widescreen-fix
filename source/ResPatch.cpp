@@ -1,11 +1,12 @@
 /*
  * Widescreen patch for Silent Heroes: Elite Troops of World War II by zocker_160
  *
- * This source code is licensed under GPL-v3
+ * This source code is licensed under GPLv3
  *
  */
+
+#include "pch.h"
 #include "ResPatch.h"
-#include <Windows.h>
 #include <iostream>
 #include <sstream>
 
